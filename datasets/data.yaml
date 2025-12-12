@@ -7,12 +7,12 @@ names:
   - apple
   - pizza
   - banana
-  - rotten apple
-  - eaten pizza
-  - rotten banana
+  - rotten_apple
+  - eaten_pizza
+  - eaten_banana
   - box
-  - green cone
-  - red cone
-  - blue cone
-  - stop sign
+  - green_cone
+  - red_cone
+  - blue_cone
+  - stop_sign
   - toilet
