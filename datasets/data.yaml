@@ -1,19 +1,5 @@
-path: .
+path: /home/dryxco/yolov8-train/datasets
 train: images/train
 val: images/val
 
-names:
-  - nurse
-  - apple
-  - pizza
-  - banana
-  - rotten_apple
-  - eaten_pizza
-  - eaten_banana
-  - box
-  - green_cone
-  - red_cone
-  - blue_cone
-  - stop_sign
-  - toilet
-  - goal_line
+names: ['apple', 'banana', 'blue_cone', 'box', 'eaten_banana', 'eaten_pizza', 'goal_line', 'green_cone', 'nurse', 'pizza', 'red_cone', 'rotten_apple', 'stop_sign', 'toilet']

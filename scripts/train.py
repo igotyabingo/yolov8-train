@@ -3,7 +3,7 @@ import os
 
 def main():
     # adjust model size depending on trained result: n, s, m, l, x
-    model = YOLO("yolov8n.pt")   
+    model = YOLO("yolov8s.pt")   
 
     # dataset yaml path
     data_yaml = "datasets/data.yaml"
