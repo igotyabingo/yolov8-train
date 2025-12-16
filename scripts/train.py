@@ -14,7 +14,7 @@ def main():
         imgsz=640,
         epochs=100,
         batch=16,
-        name="hotdog",
+        name="hotdog_2",
         project="experiments",
         pretrained=True,
         optimizer='SGD',
@@ -23,7 +23,7 @@ def main():
     )
 
     print("Train Completed!")
-    print("Weights saved under: experiments/hotdog/weights/")
+    print("Weights saved under: experiments/hotdog_2/weights/")
 
 if __name__ == "__main__":
     main()
